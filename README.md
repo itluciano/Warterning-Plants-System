@@ -8,7 +8,7 @@
 
 # References
 
-# Group Members
+# Team Members
 <table>
 	<tr align="center">
 		<td><a href="https://github.com/PhutawanITF61" target="_blank"><img src="Member Profile/tawan.png"></a></td>
