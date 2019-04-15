@@ -1,5 +1,9 @@
 # ![](/Resources/Home.png) Introduction
 
+# How to use
+
+# Configurations
+
 # Group Members
 <table>
 	<tr align="center">
