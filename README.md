@@ -5,10 +5,11 @@
 # Configurations
 
 # Statics 
-* **Started :
-* **Completed :
-* **Total Days :
-* **Main Language : 
+* **Started :** 
+* **Completed :** 
+* **Total Days :** 
+* **Main Language :**  
+
 
 # Tools
 
@@ -47,4 +48,5 @@
 		<td>รศ.ดร. ปานวิทย์ ธุวะนุติ</td>
 	</tfoot>
 </table>
-
+* **โครงงานนี้เป็นส่วนหนึ่งของวิชา 06016315 Computer Programming (COMPRO) ** 
+* **คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)**  
