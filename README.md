@@ -4,6 +4,12 @@
 
 # Configurations
 
+# Statics 
+* **Started :
+* **Completed :
+* **Total Days :
+* **Main Language : 
+
 # Tools
 
 # References
@@ -11,10 +17,10 @@
 # Team Members
 <table>
 	<tr align="center">
-		<td><a href="https://github.com/PhutawanITF61" target="_blank"><img src="Member Profile/tawan.png"></a></td>
-		<td><a href="https://github.com/61070063" target="_blank"><img src="Member Profile/tom.png"></a></td>
-		<td><a href="https://github.com/h2oprince1" target="_blank"><img src="Member Profile/fluke.png"></a></td>
-		<td><a href="https://github.com/itluciano" target="_blank"><img src="Member Profile/jack.png"></a></td>
+		<td><a href="https://github.com/PhutawanITF61" target="_blank"><img src="Member Profile/seen.jpg"></a></td>
+		<td><a href="https://github.com/61070063" target="_blank"><img src="Member Profile/ton.jpg"></a></td>
+		<td><a href="https://github.com/h2oprince1" target="_blank"><img src="Member Profile/jack.jpg"></a></td>
+		<td><a href="https://github.com/itluciano" target="_blank"><img src="Member Profile/aof.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>Krittanai Pahonkan</td>
