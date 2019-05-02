@@ -2,6 +2,8 @@
 สวัสดีครับ วันนี้กลุ่มผม Waterning Plants System ได้จัดทำระบบรดน้ำต้นไม้อัตโนมัติขึ้น เพื่อตอบสนองต่อความต้องการให้กับผู้ที่ต้องการความสะดวกสบายในการรดน้ำต้นไม้
 โดยสามารถดูการแจ้งเตือนได้จาก Smartphone 
 
+---
+
 
 # How to use
 วิธีใช้นั้นง่าย ๆ นะครับ ต่อสาย usb 2.0 เข้ากับ NODEMCU ESP8266 เท่านี้เครื่องรดน้ำต้นไม้ของเราก็จะทำงานตามโปรแกรมที่สั่งไว้แล้วครับ
@@ -20,6 +22,7 @@
 * [Blynk Library](https://github.com/blynkkk/blynk-library)
 * [LCD_I2C Library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
+---
 
 # Tools
 * Node MCU ESP8266
@@ -34,6 +37,8 @@
 * Water Source
 * Plant
 
+---
+
 # More Pictures
 แสดงถึงด้านหน้าและด้านข้างของอุปกรณ์
 
@@ -43,9 +48,15 @@
 ## Side View
 ![](images/side.png)
 
+---
+
 # Video Presentation
 
+---
+
 # Poster Project
+
+---
 
 # Team Members
 <table>
@@ -69,6 +80,8 @@
 	</tfoot>
 </table>
 
+---
+
 # Assistant Teachers
 <table>
 	<tr align="center">
@@ -80,6 +93,8 @@
 		<td>รศ.ดร. ปานวิทย์ ธุวะนุติ</td>
 	</tfoot>
 </table>
+
+---
 
 **โครงงานนี้เป็นส่วนหนึ่งของวิชา 06016315 Computer Programming (COMPRO)** 
 
