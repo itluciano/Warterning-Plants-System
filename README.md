@@ -9,6 +9,7 @@
 และสามารถรับการแจ้งเตือนการทำงานจาก application blynk ได้ 
 
 ** หมายเหตุ จำเป็นต้องต่อ Internet เข้ากับ NODEMCU ESP8266 ผ่าน Wifi ด้วยครับ
+[Full Documentation](https://github.com/itluciano/Warterning-Plants-System/wiki)
 
 # Application Blynk
  
