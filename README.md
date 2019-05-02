@@ -26,6 +26,8 @@
 ![](/images/monitor.jpg)
 
 ## Screen Short Blynk Notify
+![](/images/notification.jpg)
+
 ### Pump ON
 ![](/images/on.jpg)
 
