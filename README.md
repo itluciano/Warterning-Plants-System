@@ -17,8 +17,26 @@
 
 
 # Tools
+* Node MCU ESP8266
+* LCD_I2C
+* 1 Channel Relay
+* Soil Moisture Sensor
+* LED Tube
+* Water Pump 5V
+* USB 2.0
+* Powerbank
+* Breadboard
+* Water Source
+* Plant
 
 # More Pictures
+แสดงถึงด้านหน้าและด้านข้างของอุปกรณ์
+
+## Front View
+![](images/front.png)
+
+## Side View
+![](images/side.png)
 
 # Video Presentation
 
