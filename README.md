@@ -50,9 +50,11 @@
 
 ## Front View
 ![](images/front.png)
+![](images/front.jpg)
 
 ## Side View
 ![](images/side.png)
+![](images/side.jpg)
 
 ---
 
