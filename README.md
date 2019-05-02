@@ -10,6 +10,10 @@
 
 # More Pictures
 
+# Video Presentation
+
+# Poster Project
+
 # Team Members
 <table>
 	<tr align="center">
