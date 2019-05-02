@@ -57,7 +57,7 @@
 ---
 
 # ![](/images/video.png) Video Presentation
-* https://www.youtube.com/watch?v=RtBW8Imnios
+https://www.youtube.com/watch?v=RtBW8Imnios
 ---
 
 # Poster Project
