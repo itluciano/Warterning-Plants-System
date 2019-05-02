@@ -11,7 +11,10 @@
 
 # Application Blynk
  
-# Library Requirements
+# Library Requirements 
+* [Blynk Library](https://github.com/blynkkk/blynk-library)
+* [LCD_I2C Library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
+
 
 # Tools
 
