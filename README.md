@@ -52,7 +52,7 @@
 
 ---
 
-# ![](/images/banner.png) Video Presentation
+# ![](/images/video.png) Video Presentation
 
 ---
 
