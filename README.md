@@ -23,14 +23,13 @@
 มีหน้าจอ Monitor ไว้บอกค่าของเซนเซอร์ และความชื้นในดิน บอกเป็นเปอร์เซ็นต์
 
 ## Screen Short Monitor
-![](images/monitor.jpg)
+
 
 ## Screen Short Blynk Notify
 * Pump ON
-![](images/on.jpg)
+
 
 * Pump Off
-![](images/off.jpg)
 
 ---
  
