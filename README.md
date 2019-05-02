@@ -79,10 +79,10 @@ https://www.youtube.com/watch?v=RtBW8Imnios
 # ![](/images/member.png) Team Members
 <table>
 	<tr align="center">
-		<td><a href="https://github.com/PhutawanITF61" target="_blank"><img src="Member Profile/seen.jpg"></a></td>
-		<td><a href="https://github.com/61070063" target="_blank"><img src="Member Profile/ton.jpg"></a></td>
-		<td><a href="https://github.com/h2oprince1" target="_blank"><img src="Member Profile/jack.jpg"></a></td>
-		<td><a href="https://github.com/itluciano" target="_blank"><img src="Member Profile/aoff.jpg"></a></td>
+		<td><a href="https://github.com/Krittanai1999" target="_blank"><img src="Member Profile/seen.jpg"></a></td>
+		<td><a href="https://github.com/Chaninpp" target="_blank"><img src="Member Profile/ton.jpg"></a></td>
+		<td><a href="https://github.com/itluciano" target="_blank"><img src="Member Profile/jack.jpg"></a></td>
+		<td><a href="https://github.com/aoffis" target="_blank"><img src="Member Profile/aoff.jpg"></a></td>
 	</tr>
 	<tr align="center">
 		<td>Krittanai Pahonkan</td>
