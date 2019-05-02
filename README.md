@@ -61,11 +61,9 @@
 แสดงถึงด้านหน้าและด้านข้างของอุปกรณ์
 
 ## Front View
-![](images/front.png)
 ![](images/front.jpg)
 
 ## Side View
-![](images/side.png)
 ![](images/side.jpg)
 
 ---
@@ -75,7 +73,7 @@ https://www.youtube.com/watch?v=RtBW8Imnios
 ---
 
 # ![](/images/poster.png) Poster Project
-![](/images/poster.png)
+![](/images/Poster.png)
 
 ---
 
