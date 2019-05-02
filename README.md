@@ -7,7 +7,7 @@
 ---
 
 
-# How to use
+# ![](/images/use.png) How to use
 วิธีใช้นั้นง่าย ๆ นะครับ ต่อสาย usb 2.0 เข้ากับ NODEMCU ESP8266 เท่านี้เครื่องรดน้ำต้นไม้ของเราก็จะทำงานตามโปรแกรมที่สั่งไว้แล้วครับ
 นั้นก็คือ ความชื้นต่ำกว่า 40% จะทำการรดน้ำต้นไม้ แต่ถ้าอยากปรับค่าตามสภาพแวดล้อมต่าง ๆ ก็สามารถแก้ไขได้ผ่านไฟล์ 
 และสามารถรับการแจ้งเตือนการทำงานจาก application blynk ได้ 
@@ -18,15 +18,15 @@
 
 ---
 
-# Application Blynk
+# ![](/images/blynk.png) Application Blynk
  
-# Library Requirements 
+# ![](/images/banner.png) Library Requirements 
 * [Blynk Library](https://github.com/blynkkk/blynk-library)
 * [LCD_I2C Library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
 ---
 
-# Tools
+# ![](/images/tools.png) Tools
 * Node MCU ESP8266
 * LCD_I2C
 * 1 Channel Relay
@@ -41,7 +41,7 @@
 
 ---
 
-# More Pictures
+# ![](/images/picture.png) More Pictures
 แสดงถึงด้านหน้าและด้านข้างของอุปกรณ์
 
 ## Front View
@@ -52,7 +52,7 @@
 
 ---
 
-# Video Presentation
+# ![](/images/banner.png) Video Presentation
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-# Team Members
+# ![](/images/member.png) Team Members
 <table>
 	<tr align="center">
 		<td><a href="https://github.com/PhutawanITF61" target="_blank"><img src="Member Profile/seen.jpg"></a></td>
@@ -84,7 +84,7 @@
 
 ---
 
-# Assistant Teachers
+# ![](/images/teacher.png) Assistant Teachers
 <table>
 	<tr align="center">
 		<td><img src="Assitant Teacher/Aj Aong.jpg" width='200'></a></td>
