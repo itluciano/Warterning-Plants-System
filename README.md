@@ -2,14 +2,8 @@
 
 # How to use
 
-# Configurations
-
-# Statics 
-* **Started :** 
-* **Completed :** 
-* **Total Days :** 
-* **Main Language :**  
-
+# Application Blynk
+ 
 # Library Requirements
 
 # Tools
