@@ -19,6 +19,11 @@
 ---
 
 # ![](/images/blynk.png) Application Blynk
+ในส่วนของ application ที่ใช้ ชื่อว่า Blynk นั้น สามารถรับการแจ้งเตือนว่าควรรดน้ำต้นไม้แล้วหรือยัง
+
+มีหน้าจอ Monitor ไว้บอกค่าของเซนเซอร์ และความชื้นในดิน บอกเป็นเปอร์เซ็นต์
+
+---
  
 # ![](/images/library.png) Library Requirements 
 * [Blynk Library](https://github.com/blynkkk/blynk-library)
