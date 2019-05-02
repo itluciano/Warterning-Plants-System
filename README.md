@@ -75,6 +75,7 @@ https://www.youtube.com/watch?v=RtBW8Imnios
 ---
 
 # ![](/images/poster.png) Poster Project
+![](/images/poster.png)
 
 ---
 
